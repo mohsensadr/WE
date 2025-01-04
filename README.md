@@ -3,7 +3,7 @@
 
 # Moment-Constraint and Entropic Optimal Transport
 
-![Demo](examples/coloring_ocean.png)
+<img src="examples/coloring_ocean.png" alt="Demo" style="width: 75%;">
 
 In this repository, we provide a 3D implementation of Wasserstein-Entropic approximation to optimal transport problem. The code is based on the paper:
 
