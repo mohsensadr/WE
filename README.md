@@ -1,4 +1,7 @@
-# Moment-constraint entropic optimal transport
+[![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2308.02607.svg)](https://doi.org/10.48550/arXiv.2308.02607)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+# Moment-Constraint and Entropic Optimal Transport
 
 In this repository, we provide a 3D implementation of Wasserstein-Entropic approximation to optimal transport problem. The code is based on the paper:
 
